@@ -9,4 +9,5 @@ Kelas   : TI.20.B.1
 
 ## Langkah-Langkah Penggunaan Git
 
-* Download Git terlebih dahulu, dengan link berikut ini : https://git-scm.com/
+* Download Git terlebih dahulu, dengan link berikut ini : [Click Here](https://git-scm.com/)
+![Gambar Git SCM](pict/git-scm.PNG)
