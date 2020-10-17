@@ -37,3 +37,6 @@ Kemudian tekan tombol **Create Repository** untuk menyimpan
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
 ![Picture - Github View 1](pict/github-view.PNG)
 
+* Pembuatan akun dan repository pada Github telah selesai, saat ini akan kita lakukan untuk *me-remote* repository Github pada GitBash Lokal. Bagaimana caranya?
+Langkah pertama kita harus menyalin *link URL* git kita di Github, dengan cara tekan tombol **Code** lalu klik *Copy*.
+![Picture - Copy Link Github](pict/github-code.PNG)
