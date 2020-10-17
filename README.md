@@ -25,11 +25,11 @@ Kelas   : TI.20.B.1
 
 * Jika akun GitHub sudah selesai dibuat dan diverifikasi, Proses selanjutnya silahkan buat *Repository* seperti gamabr dibawah ini.
 **Penjelasan** : 
-> Repository Name : (Silahkan isi nama repository yang diinginkan, seperti contoh saya ingin membuat repository *LatihanVCS*)
-> Description : (Isi dengan deskripsi atau penjelasan tentang repository Anda)
-> Public / Private : (PIlih salah satu jenis repository akan bisa dilihan sama semua orang atau tidak)
-> Add a README.md file : Centang pada bagian ini jika Anda menginginkan file README.md ada di repository Anda
-> Add .gitignore : Merupakan  sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.
-> CHoose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat
+> * Repository Name : (Silahkan isi nama repository yang diinginkan, seperti contoh saya ingin membuat repository *LatihanVCS*)
+> * Description : (Isi dengan deskripsi atau penjelasan tentang repository Anda)
+> * Public / Private : (PIlih salah satu jenis repository akan bisa dilihan sama semua orang atau tidak)
+> * Add a README.md file : Centang pada bagian ini jika Anda menginginkan file README.md ada di repository Anda
+> * Add .gitignore : Merupakan  sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git.
+> * Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat
 Kemudian tekan tombol **Create Repository** untuk menyimpan
 ![Picture Create Github Repository](pict/github-create-repo.PNG)
