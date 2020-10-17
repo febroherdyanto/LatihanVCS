@@ -86,3 +86,5 @@ Sekian informasi yang dapat saya bagikan kepada kalian.
 
 ## TERIMA KASIH
 ### FEBRO HERDYANTO - 312010043 - TI.20.B.1 - TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA
+
+![UPB Logo](pict/upb.png)
