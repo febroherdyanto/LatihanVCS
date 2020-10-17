@@ -33,3 +33,7 @@ Kelas   : TI.20.B.1
 > * Choose a license : Silahkan centang jika Anda memiliki lisensi pada repository yang akan dibuat
 Kemudian tekan tombol **Create Repository** untuk menyimpan
 ![Picture Create Github Repository](pict/github-create-repo.PNG)
+
+* Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
+![Picture - Github View 1](pict/github-view.PNG)
+
