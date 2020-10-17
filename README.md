@@ -15,4 +15,5 @@ Kelas   : TI.20.B.1
 ![Gambar Installation Guide](pict/git-install-guide.PNG)
 * Setelah installasi selesai, buka *software* **GitBash** pada menu di Windows, dan lakukan pengecekan versi, dengan mengetik syntax berikut :
 > git --version
+
 ![Git Pict Version Check](pict/git-version.PNG)
