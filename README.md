@@ -49,3 +49,8 @@ Langkah pertama kita harus menyalin *link URL* git kita di Github, dengan cara t
 > git clone [URL]
 Pada contohnya, saya akan memasukkan *git clone https://github.com/febroherdyanto/LatihanVCS.git*
 ![Picture Git Clone](pict/git-clone.PNG)
+
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *LatihanVCS* dengan mengetikkan *syntax* berikut :
+> cd LatihanVCS/
+
+![Picture Pilih Direktori](pict/cd-folder.PNG)
