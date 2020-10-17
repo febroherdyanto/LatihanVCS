@@ -75,3 +75,6 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 
 ![Picture - Git Push](pict/git-push.PNG)
 
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote. 
+
+![Picture - View 2](pict/git-view2.PNG)
