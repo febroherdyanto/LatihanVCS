@@ -57,3 +57,11 @@ Pada contohnya, saya akan memasukkan *git clone https://github.com/febroherdyant
 
 * Saat ini kita sudah masuk kedalam folder *LatihanVCS*, Silahkan edit file **README.md** yang ada di File Explorer. Bisa menggunakan Text Editor (*Sublime Text, Notepad, Notepad++, Visual Studio Code*). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : [Click Here](https://guides.github.com/features/mastering-markdown/)
 ![Picture - README.md Edited](pict/readme-edit.PNG)
+
+Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+S** atau **File -> Save**
+
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
+> git add .
+
+![Picture - Git Add](pict/git-add.PNG)
+
