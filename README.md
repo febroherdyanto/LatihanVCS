@@ -78,3 +78,11 @@ Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara **CTRL+
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote. 
 
 ![Picture - View 2](pict/git-view2.PNG)
+
+
+Hal diatas adalah Cara Langkah-Langkah Penggunaan GIT.
+
+Sekian informasi yang dapat saya bagikan kepada kalian.
+
+## TERIMA KASIH
+### FEBRO HERDYANTO - 312010043 - TI.20.B.1 - TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA
