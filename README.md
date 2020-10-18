@@ -18,6 +18,18 @@ Kelas   : TI.20.B.1
 * Setelah installasi selesai, buka *software* **GitBash** pada menu di Windows, dan lakukan pengecekan versi, dengan mengetik syntax berikut :
     > git --version
 
+* Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. Langkah pertama kita harus mengkonfigurasi user nama dan email di Git, dengan mengetikkan *syntax* berikut :
+> git config --global user.name "Masukkan Nama Anda disini"
+> git config --global user.email "Masukkan Email Anda disini"
+
+![Picture - Add User](pict/git-addname.PNG)
+
+Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
+> git config --global user.name
+> git config --global user.email
+
+![Picture - Cek User](pict/git-cekname.PNG)
+
 ![Git Pict Version Check](pict/git-version.PNG)
 
 * Buat akun di [GitHub](https://github.com) , seperti contoh dibawah ini. Dan lakukan *verifikasi* akun melalui email yang sudah terdaftar. 
